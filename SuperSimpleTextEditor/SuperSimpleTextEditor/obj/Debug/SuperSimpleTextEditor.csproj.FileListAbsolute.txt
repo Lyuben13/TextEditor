@@ -1,0 +1,14 @@
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\SuperSimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\App.g.cs
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\SuperSimpleTextEditor_MarkupCompile.cache
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\bin\Debug\SuperSimpleTextEditor.exe.config
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\bin\Debug\SuperSimpleTextEditor.exe
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\bin\Debug\SuperSimpleTextEditor.pdb
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\MainWindow.baml
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\SuperSimpleTextEditor.g.resources
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\SuperSimpleTextEditor.Properties.Resources.resources
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\SuperSimpleTextEditor.csproj.GenerateResource.cache
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\SuperSimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\SuperSimpleTextEditor.exe
+C:\Users\L A\source\repos\SuperSimpleTextEditor\SuperSimpleTextEditor\obj\Debug\SuperSimpleTextEditor.pdb
